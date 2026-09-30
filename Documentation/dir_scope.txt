@@ -1,0 +1,1 @@
+This is the folder containing all the needed documentation for either contributing, coding styling and pertinent needs for the project
